@@ -69,7 +69,7 @@ alt.vconcat(
 ).configure_title(orient='top', anchor='middle').configure_view(stroke=None)
 ```
 
-![](oneVis.svg)
+![](https://raw.githubusercontent.com/David24E/CSCM37CW1/92d3d7db436152e42acdb6d490a4be97bb2a399e/oneVis.svg)
 
 ---
 
